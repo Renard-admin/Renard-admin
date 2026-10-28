@@ -38,13 +38,6 @@ Not chasing trends. Just building things that matter.
 
 ---
 
-<!-- SNAKE -->
-![snake](https://raw.githubusercontent.com/Renard-admin/Renard-admin/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<!-- PROFILE VIEWS -->
-![Views](https://komarev.com/ghpvc/?username=Renard-admin&color=c8ff00&style=flat-square&label=profile+views)
 
 <!-- FOOTER BANNER -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0c0c0e&height=100&section=footer)
